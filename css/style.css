@@ -166,6 +166,10 @@ a {
 	margin: 0;
 }
 
+.logo-images {
+	display: flex;
+}
+
 .navbar-default .navbar-nav li a {
 	color: #999;
 	font-size: 24px;
