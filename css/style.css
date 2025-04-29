@@ -168,6 +168,9 @@ a {
 
 .logo-images {
 	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 15px;
 }
 
 .navbar-default .navbar-nav li a {
